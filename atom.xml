@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zouyuanwei Blog</title>
+  <title>Nvole Blog</title>
   
   <subtitle>Keep going forward.</subtitle>
   <link href="https://zouyuanwei.github.io/Blog/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://zouyuanwei.github.io/Blog/</id>
   
   <author>
-    <name>Zou Yuanwei</name>
+    <name>Nvole</name>
     
   </author>
   
@@ -41,7 +41,7 @@
     <link href="https://zouyuanwei.github.io/Blog/2025/12/01/text/"/>
     <id>https://zouyuanwei.github.io/Blog/2025/12/01/text/</id>
     <published>2025-12-01T04:00:00.000Z</published>
-    <updated>2025-12-02T09:26:37.951Z</updated>
+    <updated>2026-01-23T15:38:44.290Z</updated>
     
     <content type="html"><![CDATA[<p>这里是正文内容…</p>]]></content>
     
