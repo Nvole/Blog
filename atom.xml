@@ -3,11 +3,11 @@
   <title>Nvole Blog</title>
   
   <subtitle>Keep going forward.</subtitle>
-  <link href="https://zouyuanwei.github.io/Blog/atom.xml" rel="self"/>
+  <link href="https://nvole.github.io/Blog/atom.xml" rel="self"/>
   
-  <link href="https://zouyuanwei.github.io/Blog/"/>
+  <link href="https://nvole.github.io/Blog/"/>
   <updated>2026-04-29T08:39:18.589Z</updated>
-  <id>https://zouyuanwei.github.io/Blog/</id>
+  <id>https://nvole.github.io/Blog/</id>
   
   <author>
     <name>Nvole</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CQU 人工智能通识</title>
-    <link href="https://zouyuanwei.github.io/Blog/2026/01/24/CQU%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86/"/>
-    <id>https://zouyuanwei.github.io/Blog/2026/01/24/CQU%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86/</id>
+    <link href="https://nvole.github.io/Blog/2026/01/24/CQU%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86/"/>
+    <id>https://nvole.github.io/Blog/2026/01/24/CQU%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86/</id>
     <published>2026-01-24T14:34:54.287Z</published>
     <updated>2026-04-29T08:39:18.589Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>CQU C++ PTA Homework</title>
-    <link href="https://zouyuanwei.github.io/Blog/2026/01/23/CQU%20C++%20PTA%20Homework/"/>
-    <id>https://zouyuanwei.github.io/Blog/2026/01/23/CQU%20C++%20PTA%20Homework/</id>
+    <link href="https://nvole.github.io/Blog/2026/01/23/CQU%20C++%20PTA%20Homework/"/>
+    <id>https://nvole.github.io/Blog/2026/01/23/CQU%20C++%20PTA%20Homework/</id>
     <published>2026-01-23T15:24:28.481Z</published>
     <updated>2026-01-28T08:39:39.089Z</updated>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>我的新文章</title>
-    <link href="https://zouyuanwei.github.io/Blog/2025/12/01/text/"/>
-    <id>https://zouyuanwei.github.io/Blog/2025/12/01/text/</id>
+    <link href="https://nvole.github.io/Blog/2025/12/01/text/"/>
+    <id>https://nvole.github.io/Blog/2025/12/01/text/</id>
     <published>2025-12-01T04:00:00.000Z</published>
     <updated>2026-01-23T15:38:44.290Z</updated>
     
@@ -71,19 +71,19 @@
     
     
     
-    <category term="F1" scheme="https://zouyuanwei.github.io/Blog/categories/F1/"/>
+    <category term="F1" scheme="https://nvole.github.io/Blog/categories/F1/"/>
     
     
-    <category term="教程" scheme="https://zouyuanwei.github.io/Blog/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nvole.github.io/Blog/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Butterfly" scheme="https://zouyuanwei.github.io/Blog/tags/Butterfly/"/>
+    <category term="Butterfly" scheme="https://nvole.github.io/Blog/tags/Butterfly/"/>
     
   </entry>
   
   <entry>
     <title>I have my first Blog</title>
-    <link href="https://zouyuanwei.github.io/Blog/2025/11/30/My%20first%20Blog/"/>
-    <id>https://zouyuanwei.github.io/Blog/2025/11/30/My%20first%20Blog/</id>
+    <link href="https://nvole.github.io/Blog/2025/11/30/My%20first%20Blog/"/>
+    <id>https://nvole.github.io/Blog/2025/11/30/My%20first%20Blog/</id>
     <published>2025-11-30T06:24:31.511Z</published>
     <updated>2025-12-02T09:41:19.921Z</updated>
     
